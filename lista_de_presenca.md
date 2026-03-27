@@ -68,5 +68,3 @@ Para que seu PR seja aceito, os seguintes pontos serão avaliados:
 | **Mensagem** | `feat: adiciona [Nome] à lista de alunos` |
 
 ---
-
-**Posso te ajudar a configurar alguma regra de proteção de branch no seu repositório para impedir que eles deem push direto na `main` sem passar pelo PR?**
