@@ -1,6 +1,10 @@
 from Alunos import Alunos
 
+
+
 alunos = Alunos()
+
+lista_turma.inserir("Bernard Rodrigues")
 alunos.inserir("Daniel Adonai")
 alunos.inserir("Raphael Cardoso")
 
